@@ -1,4 +1,4 @@
-# UTS Graf Sains Data — Sistem Rekomendasi Produk RetailRocket
+# UTS Graf Sains Data - Sistem Rekomendasi Produk RetailRocket
 
 ## Identitas Mahasiswa
 
@@ -43,6 +43,15 @@ Beberapa atribut utama yang digunakan:
 Jenis interaksi yang dianalisis meliputi `view`, `addtocart`, dan `transaction`.
 
 Sumber dataset: [RetailRocket E-commerce Dataset — Kaggle](https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset)
+
+## 📅 Periode Penelitian
+
+Dataset RetailRocket dibagi menjadi dua periode berdasarkan timestamp interaksi pengguna:
+
+- **Periode 1 (P1):** 6 Juni 2015 – 28 Juni 2015
+- **Periode 2 (P2):** 29 Juni 2015 – 7 Juli 2015
+
+Periode P1 digunakan sebagai data historis untuk membangun kemiripan antar-item, sedangkan periode P2 digunakan untuk menguji dan mengevaluasi hasil rekomendasi.
 
 ## Metodologi
 
