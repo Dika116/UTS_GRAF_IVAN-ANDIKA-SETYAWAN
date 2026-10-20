@@ -44,7 +44,7 @@ Jenis interaksi yang dianalisis meliputi `view`, `addtocart`, dan `transaction`.
 
 Sumber dataset: [RetailRocket E-commerce Dataset — Kaggle](https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset)
 
-## 📅 Periode Penelitian
+##  Periode Penelitian
 
 Dataset RetailRocket dibagi menjadi dua periode berdasarkan timestamp interaksi pengguna:
 
